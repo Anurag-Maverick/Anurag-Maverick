@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag-Maverick
 - 👀 I’m interested in Data Science and Deep Learning
-- 🌱 I’m currently learning Tensorflow and Pytorch
+- 🌱 I’m currently learning Tensorflow, Pytorch and Spark programming
 - 📫 Reach me at: amukherjee@es.iitr.ac.in
 
 <!---
