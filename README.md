@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anurag-Maverick
 - 👀 I’m interested in Data Science and Deep Learning
 - 🌱 I’m currently learning Tensorflow, Pytorch and Spark programming
-- 📫 Reach me at: amukherjee@es.iitr.ac.in
+- 📫 Reach me at: amukherjee@es.iitr.ac.in or anuragmukherjee6339@gmail.com
 
 <!---
 Anurag-Maverick/Anurag-Maverick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
